@@ -1,0 +1,81 @@
+.col,
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-sm,
+.col-sm-12,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-auto{
+	 }
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+}
+.head{
+	position: fixed;
+	width: 100%;
+	text-align: center;
+	z-index: 1030;
+}
+.smth-head{
+	height: 40px;
+	background: #A492DD;
+}
+.search-head{
+	height: 77px;
+	background: #9392DD;
+}
+.menu-head{
+	height: 39px;
+	background: #92A6DD;
+}
+.body{
+	padding-top: 156px;
+	height: 1800px;
+	max-width: 1240px;
+	margin: 0 auto;
+	background: #ECEBEA;
+}
+.slider img{
+	width: 100%;
+}
+.kategorien{
+	height: 60px;
+	text-align: center;
+	background: #F1D498;
+}
+.spisok-mid{
+	height: 280px;
+}
+.tov-mid{
+  text-align: center;
+  height: 280px;
+}
+.box{
+	height: 278px;
+	text-align: center;
+	position: relative;
+}
